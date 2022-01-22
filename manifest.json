@@ -1,0 +1,9 @@
+{
+    "name": "DSPBigFormingSize",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "This allows you to change the maximum size of the brush in Surface Formation Mode. It doesn't affect achievements or milestones.　地表形成モードのブラシの最大サイズを変更することができます。実績やマイルストーンには影響しません。",
+    "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+    ]
+}
